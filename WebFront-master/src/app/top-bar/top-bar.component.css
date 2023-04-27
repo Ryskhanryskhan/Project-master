@@ -1,0 +1,15 @@
+.top {
+
+  border: 2px solid gold;
+  color: gold;
+  padding: 1em 1.5em;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1em;
+  display: inline-block;
+  width: auto;
+  margin-right: 7px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 8px 0 #000;
+  margin-left: 0;
+}
